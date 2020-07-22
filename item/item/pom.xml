@@ -9,7 +9,7 @@
 		<version>2.3.1.RELEASE</version>
 		<relativePath /> <!-- lookup parent from repository -->
 	</parent>
-	<groupId>com.epam.eruka.</groupId>
+	<groupId>com.epam.eruka.item</groupId>
 	<artifactId>item</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>item</name>
